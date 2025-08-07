@@ -72,24 +72,24 @@
 - Responsive e-commerce site with Stripe payments  
 - CI/CD via Jenkins + Docker on AWS EC2  
 - Load balanced via NGINX + 2 Next.js containers  
-[GitHub](#) | [Live Site](#)
+
 
 #### 💬 MERN Chat App  
 **Tech:** React, Node, MongoDB, Redux, Socket.io  
 - Real-time messaging for 75+ users  
 - Auth via JWT, performance optimized  
-[GitHub](#) | [Live Site](#)
+
 
 #### 🔧 MERNDevOps  
 **Tech:** Docker, GitHub Actions, Prometheus, Grafana  
 - Fully containerized pipeline  
 - Monitored app metrics via Grafana and AWS CloudWatch  
-[GitHub](#)
+  
 
 #### 🔐 JWT Auth System  
 **Tech:** Django, React TypeScript  
 - Full-stack auth with validation, routing, and secure tokens  
-[GitHub](#) | [Live Site](#)
+
 
 ---
 
@@ -112,5 +112,4 @@
 ---
 
 📬 **Let’s Connect:**  
-[LinkedIn](https://www.linkedin.com/in/aman-agrawal-0823b0267) • [LeetCode](https://leetcode.com/) • [Codeforces](https://codeforces.com/profile/) • [CodeChef](https://www.codechef.com/users/) • [Portfolio](#)
-
+[LinkedIn](https://www.linkedin.com/in/aman-agrawal-0823b0267)
