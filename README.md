@@ -16,8 +16,6 @@
 - ⚔️ Competitive Programmer: CodeChef ⭐3 (1619), Codeforces Pupil (1355), LeetCode Rating: 1715
 - 🏆 2nd @ Hack-O-Sprint 2.0 | 3rd @ Ideathon’23 (GDSC IIIT Bhopal)
 - 🤝 Actively contributing to open-source via GSSoC 2025
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/aman-agrawal-0823b0267) • [LeetCode](https://leetcode.com/) • [Codeforces](https://codeforces.com/profile/) • [CodeChef](https://www.codechef.com/users/) • [Portfolio](#)
-
 ---
 
 ### 🚀 Tech Stack
