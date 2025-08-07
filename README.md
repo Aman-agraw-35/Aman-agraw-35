@@ -9,7 +9,7 @@
 - 🌱 Learning more about **Go backend**, **DevOps**, and **3D globe visualizations**
 - 👯 I’m contributing to open-source via **GSSoC 2025** and personal projects
 - 💬 Ask me about React, Next.js, CI/CD, AWS, or anything web/devops
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/authwall?trk=gf&trkInfo=AQHV-7ZrwQltewAAAZiC2wboGEACzCaPckKivpGZ901ik99zr090PnJCjG-T8l6JA4Vgg83oS7MypY8U6R2npJf-fVm_xA6fLTntNbqD2Fzz9lVjogkNAtYruMqzxxZmgGYBOKM=&original_referer=https://github.com/&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faman-agrawal-0823b0267)
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/aman-agrawal-0823b0267)
 
 ---
 
