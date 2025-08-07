@@ -46,6 +46,3 @@
 
 ---
 
-### 📌 Pinned Projects
-
-Check out my pinned repositories below 👇
