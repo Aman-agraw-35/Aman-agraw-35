@@ -1,42 +1,49 @@
 <h1 align="center">Hi 👋, I'm Aman Agrawal</h1>
-<h3 align="center">Full Stack Developer | Open Source Contributor | DevOps Enthusiast</h3>
+<h3 align="center">Full Stack Developer | DevOps Practitioner | Open Source Contributor</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aman-agraw-35&label=Profile%20views&color=0e75b6&style=flat" alt="Aman-agraw-35" />
+</p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently building full-stack apps using **MERN**, **Next.js**, **Docker**, and more
-- 🌱 Learning more about **LangChain**, **Kubernetes**, and **Cloud DevOps**
-- 👯 I’m contributing to open-source via **GSSoC 2025** and personal projects
-- 💬 Ask me about MERN stack, CI/CD, GitHub Actions, AWS, or anything web/devops
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/aman-agrawal-0823b0267)
+- 🎓 B.Tech ECE @ IIIT Bhopal | CGPA: 8.62
+- 💼 Full Stack Developer | DevOps | Cloud
+- 🧠 Solved 340+ problems on LeetCode, 220+ on GeeksForGeeks
+- 🔭 Worked on production-grade deployments using Docker, Jenkins, AWS EC2, and GitHub Actions
+- ⚔️ Competitive Programmer: CodeChef ⭐3 (1619), Codeforces Pupil (1355), LeetCode Rating: 1715
+- 🏆 2nd @ Hack-O-Sprint 2.0 | 3rd @ Ideathon’23 (GDSC IIIT Bhopal)
+- 🤝 Actively contributing to open-source via GSSoC 2025
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/aman-agrawal-0823b0267) • [LeetCode](https://leetcode.com/) • [Codeforces](https://codeforces.com/profile/) • [CodeChef](https://www.codechef.com/users/) • [Portfolio](#)
 
 ---
 
-### 🛠️ Tech Stack
+### 🚀 Tech Stack
 
-#### 🚀 Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)
+#### 👨‍💻 Languages & Frameworks
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=for-the-badge)
 
-#### 🧠 Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+#### 🧩 Full Stack (MERN + Next.js)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
-#### ⚙️ DevOps & Tools
+#### ⚙️ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-#### 🔍 AI, Automation & Languages
-![LangChain](https://img.shields.io/badge/-LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
@@ -48,18 +55,64 @@
 
 ---
 
-### 🗂️ Contribution Graph
+### 🔥 Contribution Graph
 
 [![Aman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aman-agraw-35&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 Achievements & Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Aman-agraw-35&theme=darkhub&rank=SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-### 📌 Pinned Projects
+### 📌 Featured Projects
 
-Check out my pinned repositories below 👇
+#### 🛒 Guns-Mart  
+**Tech:** Next.js, Tailwind, Docker, Jenkins, NGINX, AWS EC2  
+- Responsive e-commerce site with Stripe payments  
+- CI/CD via Jenkins + Docker on AWS EC2  
+- Load balanced via NGINX + 2 Next.js containers  
+[GitHub](#) | [Live Site](#)
+
+#### 💬 MERN Chat App  
+**Tech:** React, Node, MongoDB, Redux, Socket.io  
+- Real-time messaging for 75+ users  
+- Auth via JWT, performance optimized  
+[GitHub](#) | [Live Site](#)
+
+#### 🔧 MERNDevOps  
+**Tech:** Docker, GitHub Actions, Prometheus, Grafana  
+- Fully containerized pipeline  
+- Monitored app metrics via Grafana and AWS CloudWatch  
+[GitHub](#)
+
+#### 🔐 JWT Auth System  
+**Tech:** Django, React TypeScript  
+- Full-stack auth with validation, routing, and secure tokens  
+[GitHub](#) | [Live Site](#)
+
+---
+
+
+### 🧑‍🏫 Leadership
+
+#### Google Developer Student Clubs, IIIT Bhopal – Event Coordinator  
+- Hosted 9+ tech events and workshops  
+- Guided 500+ learners through hands-on sessions
+
+---
+
+### 🧠 Problem Solving Stats
+
+- ✅ **LeetCode**: 340+ problems | Max Rating: **1715**  
+- ✅ **GFG**: 220+ problems  
+- ✅ **CodeChef**: ⭐ 3 | Max Rating: **1619**  
+- ✅ **Codeforces**: Pupil | Max Rating: **1355**
+
+---
+
+📬 **Let’s Connect:**  
+[LinkedIn](https://www.linkedin.com/in/aman-agrawal-0823b0267) • [LeetCode](https://leetcode.com/) • [Codeforces](https://codeforces.com/profile/) • [CodeChef](https://www.codechef.com/users/) • [Portfolio](#)
+
