@@ -13,7 +13,7 @@
 - 💼 Full Stack Developer | DevOps | Cloud
 - 🧠 Solved 340+ problems on LeetCode, 280+ on GeeksForGeeks
 - 🔭 Worked on production-grade deployments using Docker, Jenkins, AWS EC2, and GitHub Actions
-- ⚔️ Competitive Programmer: CodeChef ⭐3 , Codeforces Exprt, LeetCode Knight
+- ⚔️ Competitive Programmer: CodeChef ⭐3 , Codeforces Expert, LeetCode Knight
 - 🏆 2nd @ Hack-O-Sprint 2.0 | 3rd @ Ideathon’23 (GDSC IIIT Bhopal)
 - 🤝 Actively contributing to open-source via GSSoC 2025
 ---
