@@ -9,13 +9,13 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 B.Tech ECE @ IIIT Bhopal | CGPA: 8.62
+- 🎓 B.Tech @ IIIT Bhopal | CGPA: 8.62
 - 💼 Full Stack Developer | DevOps | Cloud
-- 🧠 Solved 340+ problems on LeetCode, 280+ on GeeksForGeeks
+- 🧠 Solved 455+ problems on LeetCode, 320+ on GeeksForGeeks
 - 🔭 Worked on production-grade deployments using Docker, Jenkins, AWS EC2, and GitHub Actions
-- ⚔️ Competitive Programmer: CodeChef ⭐3 , Codeforces Expert, LeetCode Knight
+- ⚔️ Competitive Programmer: Codeforces Expert, LeetCode Knight
 - 🏆 2nd @ Hack-O-Sprint 2.0 | 3rd @ Ideathon’23 (GDSC IIIT Bhopal)
-- 🤝 Actively contributing to open-source via GSSoC 2025
+
 ---
 
 ### 🚀 Tech Stack
@@ -104,9 +104,8 @@
 
 ### 🧠 Problem Solving Stats
 
-- ✅ **LeetCode**: 400+ problems | Knight 
-- ✅ **GFG**: 280+ problems  
-- ✅ **CodeChef**: ⭐ 3  
+- ✅ **LeetCode**: 455+ problems | Knight 
+- ✅ **GFG**: 232+ problems  
 - ✅ **Codeforces**: Expert
 
 ---
