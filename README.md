@@ -105,7 +105,7 @@
 ### 🧠 Problem Solving Stats
 
 - ✅ **LeetCode**: 455+ problems | Knight 
-- ✅ **GFG**: 232+ problems  
+- ✅ **GFG**: 320+ problems  
 - ✅ **Codeforces**: Expert
 
 ---
