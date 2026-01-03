@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 B.Tech @ IIIT Bhopal | CGPA: 8.62
+- 🎓 B.Tech @ IIIT Bhopal | CGPA: 8.72
 - 💼 Full Stack Developer | DevOps | Cloud
 - 🧠 Solved 455+ problems on LeetCode, 320+ on GeeksForGeeks
 - 🔭 Worked on production-grade deployments using Docker, Jenkins, AWS EC2, and GitHub Actions
